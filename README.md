@@ -8,4 +8,5 @@ REDCapから出してきたRecord_idおよび患者IDを含むワイドタイプ
 
 # \# 使い方
 
-Python3が使える方はpythonファイルを使用していただいて結構です。自身のPCでpython3が使用できない場合は Releasesから .exeファイルをダウンロードして使用してください。
+Python3が使える方はpythonファイルを使用していただいて結構です。
+自身のPCでpython3が使用できない場合は Releasesから .exeファイルをダウンロードして使用してください。
